@@ -14,8 +14,7 @@ https://victorious-sky-0c2777110.1.azurestaticapps.net
  
  SS WEBSITE 
  
- https://github.com/Rimjhikumari2244/VVV/blob/main/Screenshot%20(118).png
- https://github.com/Rimjhikumari2244/VVV/blob/main/Screenshot%20(119).png
+ 
 ![image](https://user-images.githubusercontent.com/107490934/176736423-0e234a4f-3560-4043-9628-41fdbe736ddd.png)
 ![image](https://user-images.githubusercontent.com/107490934/176736442-b510acd8-cd7e-4084-8a70-c821e95d6370.png)
 ![image](https://user-images.githubusercontent.com/107490934/176736472-3384252b-b35f-4cac-9915-f4ca476d0735.png)
@@ -23,3 +22,7 @@ https://victorious-sky-0c2777110.1.azurestaticapps.net
 
 
 Project Demo Videp Link- https://youtu.be/lrFSFal0eK0
+
+Project Demo SS - https://github.com/Rimjhikumari2244/PROJECT/blob/main/Screenshot%20(118).png
+
+Project AZURE - https://github.com/Rimjhikumari2244/PROJECT/blob/main/Screenshot%20(119).png
